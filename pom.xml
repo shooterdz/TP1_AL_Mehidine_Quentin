@@ -70,6 +70,8 @@
     </plugins>
   </reporting>
   <scm>
-    <connection>scm:git:file:///home/Documents/TPMaven/tpmaven</connection>
+    <url>https://github.com/shooterdz/TP1_AL_Mehidine_Quentin.git</url>
+    <connection>scm:git:ssh://git@github.com:shooterdz/TP1_AL_Mehidine_Quentin.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com:shooterdz/TP1_AL_Mehidine_Quentin.git</developerConnection>
   </scm>
 </project>
